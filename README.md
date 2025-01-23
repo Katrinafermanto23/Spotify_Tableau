@@ -3,3 +3,6 @@ This is a breakdown of the best and most popular artist of Spotify 2024. In this
 
 
 <img width="1647" alt="Screenshot 2025-01-23 at 1 34 30 PM" src="https://github.com/user-attachments/assets/66d9d2e4-bc34-4615-a539-7ae8c1f3cbae"/>
+
+https://public.tableau.com/app/profile/katrina.fermanto/viz/SPOTIFY2024BREAKDOWN/Dashboard1
+

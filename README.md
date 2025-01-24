@@ -1,7 +1,8 @@
 ## Spotify Tableau ##
 
 
-This is a breakdown of the best and most popular artist of Spotify 2024. In this Tableau page, I created a break down to visualize which artist has the most streams, which songs were the most popular and added in the playlist which indicates that users are in their "sit back" mode and have intergated the music into their everyday lives. Moreover the number of tracks that artist has means how many songs these artise has released. It would be great to note that artist that has more releases is mosyt likely to have more streams. 
+This page provides a detailed analysis of the best and most popular artists on Spotify in 2024. Using Tableau, I’ve created visualizations that showcase which artists have the highest number of streams, identify the most popular songs, and highlight tracks that have been added to playlists, reflecting how users have integrated this music into their everyday lives during their "sit back" moments. Additionally, the number of tracks released by each artist is an important metric; artists with more releases are generally more likely to accumulate higher stream counts.
+
 <br/>
 <br/>
 
